@@ -1,0 +1,7 @@
+{
+  "name": "vfs-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
